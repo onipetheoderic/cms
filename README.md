@@ -24,10 +24,10 @@ Things you may want to cover:
 ## IT WAS CREATED USING ROR(RUBY ON RAILS), AND IT HAS A CUSTOMIZED AND FLEXIBLE ADMIN SYSTEM
 
 # FEATURES OF THE CMS
-*Admin login system
-*Mysql database
-*Style editor, for beautification of content
-*Easy to Use
-*Flexible to use
-and many more....
-Designed by Onipe Theoderic Ohinoyi
+	* Admin login system
+	* Mysql database
+	* Style editor, for beautification of content
+	* Easy to Use
+	* Flexible to use
+	* and many more....
+## Designed by Onipe Theoderic Ohinoyi
